@@ -7,6 +7,8 @@ function theBeatlesPlay(musicians, instruments) {
         let currentMusician = musicians[i];
         let currentInstrument = instruments[i];
         
-      return array.push(`${currentMusician} plays ${currentInstrument});
+      return array.push(`${currentMusician} plays ${currentInstrument}`);
   }
+  
+  return array;
 }
