@@ -1,2 +1,6 @@
 // add solution here
-function theBeatlesPlay()
+var variable = [];
+
+function theBeatlesPlay(musicians, instruments) {
+  
+}
